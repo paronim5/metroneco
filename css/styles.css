@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #2b2b2b;
+}
+.h1 {
+    margin-top: 20px;
+    font-size: 4em;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(27%) sepia(93%) saturate(502152%) hue-rotate(358deg) brightness(96%) contrast(112%);
+}
+
+.form-label {
+    font-size: 2em;
+}
+.form-radio-button {
+    font-size: 1.59999em;
+}
